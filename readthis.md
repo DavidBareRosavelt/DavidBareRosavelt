@@ -1,0 +1,4 @@
+- Hi, I’m @DavidBareRosavelt, I am a 12-year-old boy who is currently working on being a game developer with Unity
+- I’m interested in coding such games
+- I’m currently learning on the Unity Game Engine, its features, extras, etc.
+- I’m looking to collaborate on several projects with Unity
